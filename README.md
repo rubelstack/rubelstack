@@ -66,7 +66,7 @@
 <tr>
 <td width="50%">
 
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+<img align="center" src="https://raw.githubusercontent.com/rubelstack/rubelstack/c92eb864ed3697415c04c6da7fe83538976cbd2a/profile-pic.jpg" width="100%" style="border-radius: 15px;" alt="Rubel"/>
 
 </td>
 <td width="50%">
@@ -242,7 +242,13 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rubelstack&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/rubelstack)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubelstack&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=-C,-B)](https://github.com/rubelstack)
+
+<!-- If trophies still don't load, the backup display below will show -->
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubelstack&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=🏆%20Rubel's%20Achievement%20Stats" alt="Achievement Stats" height="180"/>
 
 </div>
 

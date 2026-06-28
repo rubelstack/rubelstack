@@ -16,9 +16,9 @@
 <!-- VISITOR BADGE + PROFILE VIEWS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ariyanamore&label=🌟+Profile+Views&color=00ff88&style=for-the-badge&labelColor=0d1117)
-[![GitHub followers](https://img.shields.io/github/followers/ariyanamore?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/ariyanamore?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/ariyanamore?affiliations=OWNER&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/ariyanamore?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=rubelstack&label=🌟+Profile+Views&color=00ff88&style=for-the-badge&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/rubelstack?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/rubelstack?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/rubelstack?affiliations=OWNER&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/rubelstack?tab=repositories)
 
 </div>
 
@@ -100,23 +100,23 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <div align="center">
 
 <!-- 3D GITHUB STATS -->
-<a href="https://github.com/ariyanamore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariyanamore&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff&ring_color=00ff88&include_all_commits=true&count_private=true" alt="Ariyan's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanamore&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/rubelstack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubelstack&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff&ring_color=00ff88&include_all_commits=true&count_private=true" alt="Ariyan's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelstack&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- 🔥 STREAK STATS -->
-<a href="https://github.com/ariyanamore">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyanamore&theme=radical&background=0d1117&hide_border=true&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+<a href="https://github.com/rubelstack">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubelstack&theme=radical&background=0d1117&hide_border=true&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- 3D CONTRIBUTION GRAPH -->
-<a href="https://github.com/ariyanamore">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariyanamore&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff88&area=true&hide_border=true&custom_title=📊%20Ariyan's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<a href="https://github.com/rubelstack">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubelstack&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff88&area=true&hide_border=true&custom_title=📊%20Ariyan's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -127,7 +127,7 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariyanamore&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ariyanamore)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubelstack&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/rubelstack)
 
 </div>
 
@@ -138,8 +138,8 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <div align="center">
 
 <!-- REPO CARDS - These auto-update from your GitHub -->
-<a href="https://github.com/ariyanamore?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariyanamore&repo=ariyanamore&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff" alt="Profile Repo"/>
+<a href="https://github.com/rubelstack?tab=repositories&sort=stargazers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubelstack&repo=rubelstack&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff" alt="Profile Repo"/>
 </a>
 
 <br/><br/>
@@ -148,13 +148,13 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 | 🔖 Repository | 📝 Description | ⭐ Status |
 |:---:|:---:|:---:|
-| [🌐 Portfolio Website](https://github.com/ariyanamore) | Personal portfolio — [ariyan.bro.bd](https://ariyan.bro.bd) | `🟢 Live` |
-| [🚀 Upcoming Project 1](https://github.com/ariyanamore) | Full-stack SaaS Application | `🟡 In Progress` |
-| [🤖 Upcoming Project 2](https://github.com/ariyanamore) | AI-Powered Tool | `🔴 Coming Soon` |
-| [📱 Upcoming Project 3](https://github.com/ariyanamore) | Mobile App with React Native | `🔴 Coming Soon` |
-| [🎮 Upcoming Project 4](https://github.com/ariyanamore) | Interactive Web Experience | `🔴 Coming Soon` |
+| [🌐 Portfolio Website](https://github.com/rubelstack) | Personal portfolio — [ariyan.bro.bd](https://ariyan.bro.bd) | `🟢 Live` |
+| [🚀 Upcoming Project 1](https://github.com/rubelstack) | Full-stack SaaS Application | `🟡 In Progress` |
+| [🤖 Upcoming Project 2](https://github.com/rubelstack) | AI-Powered Tool | `🔴 Coming Soon` |
+| [📱 Upcoming Project 3](https://github.com/rubelstack) | Mobile App with React Native | `🔴 Coming Soon` |
+| [🎮 Upcoming Project 4](https://github.com/rubelstack) | Interactive Web Experience | `🔴 Coming Soon` |
 
-> 💡 *Check out all my repositories [here](https://github.com/ariyanamore?tab=repositories)!*
+> 💡 *Check out all my repositories [here](https://github.com/rubelstack?tab=repositories)!*
 
 </div>
 
@@ -174,7 +174,7 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <a href="https://instagram.com/ariyanamore" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
 </a>
-<a href="https://github.com/ariyanamore" target="_blank">
+<a href="https://github.com/rubelstack" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 <a href="mailto:contact@ariyan.bro.bd" target="_blank">

@@ -1,228 +1,410 @@
 <div align="center">
 
-<!-- 3D ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=ARIYAN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff&stroke=00ff88&strokeWidth=2" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🔥 ANIMATED 3D HERO BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED TYPING SVG -->
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=MD%20RUBEL%20KHAN&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Developer%20%20%7C%20%20🎯%20Problem%20Solver%20%20%7C%20%20🚀%20Tech%20Innovator&descAlignY=55&descSize=16&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe!;%F0%9F%92%A1+Turning+Ideas+into+Reality;%F0%9F%8C%90+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9A%A1+Code+%7C+Create+%7C+Innovate+%7C+Repeat)](https://git.io/typing-svg)
-
-<!-- ANIMATED WAVE -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<!-- VISITOR BADGE + PROFILE VIEWS -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rubelstack&label=🌟+Profile+Views&color=00ff88&style=for-the-badge&labelColor=0d1117)
-[![GitHub followers](https://img.shields.io/github/followers/rubelstack?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/rubelstack?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/rubelstack?affiliations=OWNER&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/rubelstack?tab=repositories)
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⚡ DYNAMIC TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<!-- 3D DIVIDER -->
+<a href="https://github.com/rubelstack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%24+whoami;MD+RUBEL+KHAN+%E2%94%82+%40rubelstack;%24+cat+passion.txt;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%E2%80%A2+Repeat+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🎯 STATUS BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=flat-square&labelColor=0d1117" alt="Focus"/>
+<img src="https://img.shields.io/badge/Living-Bangladesh%20🇧🇩-58a6ff?style=flat-square&labelColor=0d1117" alt="Living"/>
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-58a6ff?style=flat-square&labelColor=0d1117" alt="Languages"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rubelstack&label=PROFILE+VIEWS&color=58a6ff&style=flat-square&labelColor=0d1117)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/rubelstack?logo=github&label=FOLLOWERS&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/rubelstack?tab=followers)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/rubelstack?affiliations=OWNER&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&label=TOTAL%20STARS)](https://github.com/rubelstack?tab=repositories)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧑‍💻 ABOUT ME — TERMINAL STYLE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
+<div align="center">
 
-```yaml
-name: Ariyan
-located_in: Bangladesh 🇧🇩
+## &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; `$ cat about_rubel.json` &nbsp;
 
-facebook: ariyanamore
-instagram: ariyanamore
-website: ariyan.bro.bd
+</div>
 
-current_focus: "Building innovative digital solutions"
-learning: ["AI/ML", "Cloud Architecture", "Web3"]
-hobbies: ["Coding", "Open Source", "UI/UX Design"]
+<br/>
 
-fields_of_interests:
-  - "Full Stack Web Development"
-  - "Mobile App Development"
-  - "UI/UX Design"
-  - "DevOps & Cloud"
-  - "Open Source Contribution"
-  
-fun_fact: "I debug with console.log and I'm proud of it 😄"
+<table align="center">
+<tr>
+<td width="50%">
+
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+
+</td>
+<td width="50%">
+
+```json
+{
+  "name": "MD Rubel Khan",
+  "handle": "@rubelstack",
+  "location": "Bangladesh 🇧🇩",
+  "website": "ariyan.bro.bd",
+  "role": "Full Stack Developer",
+
+  "social": {
+    "facebook": "ariyanamore",
+    "instagram": "ariyanamore",
+    "github": "rubelstack"
+  },
+
+  "code": [
+    "JavaScript", "TypeScript",
+    "Python", "PHP", "C++"
+  ],
+
+  "daily_routine": [
+    "☕ Coffee",
+    "💻 Code",
+    "🐛 Debug",
+    "🔁 Repeat"
+  ]
+}
 ```
 
-<br clear="both"/>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
+<br/>
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+> ### *`" First, solve the problem. Then, write the code. "` — John Johnson*
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 WHAT I'M UP TO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+<br/>
 
 <div align="center">
 
-<!-- 3D GITHUB STATS -->
+## &nbsp; 🎯 &nbsp; `$ cat current_status.log` &nbsp;
+
+</div>
+
+<br/>
+
+<div align="center">
+
+|  | Status | Details |
+|:---:|:---:|:---|
+| 🔭 | **Working on** | Building scalable web applications & open source tools |
+| 🌱 | **Learning** | AI/ML, Cloud Architecture, System Design |
+| 👯 | **Collaborating** | Open source projects & innovative startups |
+| 💬 | **Ask me about** | JavaScript, React, Node.js, Python, System Design |
+| 🌐 | **Portfolio** | **[ariyan.bro.bd](https://ariyan.bro.bd)** |
+| ⚡ | **Fun fact** | I mass text all my friends at 6am and say "the sun is up" |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK — ANIMATED SKILL ICONS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; `$ ls ~/tech-stack/` &nbsp;
+
+<br/>
+
+### `📂 languages/`
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,cpp,java,html,css&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+### `📂 frameworks_and_libraries/`
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,vue,django&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+### `📂 tools_and_platforms/`
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,firebase,mongodb,mysql,vercel,netlify,postman&theme=dark&perline=12)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS — 3D STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## &nbsp; 📊 &nbsp; `$ neofetch --github-stats` &nbsp;
+
+<br/>
+
+<!-- ROW 1: Stats + Top Languages -->
 <a href="https://github.com/rubelstack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubelstack&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff&ring_color=00ff88&include_all_commits=true&count_private=true" alt="Ariyan's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelstack&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rubelstack&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=Rubel's%20GitHub%20Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubelstack&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=Rubel's%20GitHub%20Stats" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelstack&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelstack&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </picture>
 </a>
 
 <br/><br/>
 
-<!-- 🔥 STREAK STATS -->
+<!-- ROW 2: Streak Stats -->
 <a href="https://github.com/rubelstack">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubelstack&theme=radical&background=0d1117&hide_border=true&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rubelstack&theme=dark&background=0d1117&hide_border=true&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com/?user=rubelstack&theme=dark&background=0d1117&hide_border=true&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" width="700"/>
+  </picture>
 </a>
 
 <br/><br/>
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- ROW 3: Activity Graph -->
 <a href="https://github.com/rubelstack">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubelstack&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff88&area=true&hide_border=true&custom_title=📊%20Ariyan's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubelstack&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&custom_title=📈%20Rubel's%20Contribution%20Graph&title_color=58a6ff" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏆 TROPHY SHOWCASE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 **GitHub Trophies**
+<br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rubelstack&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/rubelstack)
+## &nbsp; 🏆 &nbsp; `$ cat achievements.log` &nbsp;
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubelstack&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/rubelstack)
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📁 FEATURED REPOSITORIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Featured Repositories**
+<br/>
 
 <div align="center">
 
-<!-- REPO CARDS - These auto-update from your GitHub -->
-<a href="https://github.com/rubelstack?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubelstack&repo=rubelstack&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=ffffff" alt="Profile Repo"/>
+## &nbsp; 📦 &nbsp; `$ ls ~/repositories/ --featured` &nbsp;
+
+<br/>
+
+<!-- AUTO-UPDATING PINNED REPOS -->
+<a href="https://github.com/rubelstack/rubelstack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubelstack&repo=rubelstack&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="Profile Repo"/>
 </a>
 
 <br/><br/>
 
-<!-- DYNAMIC REPOSITORY LIST -->
+<!-- REPOSITORY ROADMAP -->
 
-| 🔖 Repository | 📝 Description | ⭐ Status |
-|:---:|:---:|:---:|
-| [🌐 Portfolio Website](https://github.com/rubelstack) | Personal portfolio — [ariyan.bro.bd](https://ariyan.bro.bd) | `🟢 Live` |
-| [🚀 Upcoming Project 1](https://github.com/rubelstack) | Full-stack SaaS Application | `🟡 In Progress` |
-| [🤖 Upcoming Project 2](https://github.com/rubelstack) | AI-Powered Tool | `🔴 Coming Soon` |
-| [📱 Upcoming Project 3](https://github.com/rubelstack) | Mobile App with React Native | `🔴 Coming Soon` |
-| [🎮 Upcoming Project 4](https://github.com/rubelstack) | Interactive Web Experience | `🔴 Coming Soon` |
+```
+📦 Repository Roadmap
+├── 🟢 LIVE
+│   ├── 🌐 Portfolio Website ──────── ariyan.bro.bd
+│   └── 📋 GitHub Profile ─────────── You're looking at it!
+│
+├── 🟡 IN PROGRESS
+│   ├── 🚀 Full-Stack SaaS App ────── Next.js + Node.js + MongoDB
+│   └── 🤖 AI-Powered Tool ────────── Python + TensorFlow
+│
+├── 🔴 COMING SOON
+│   ├── 📱 React Native Mobile App
+│   ├── 🎮 Interactive Web Game
+│   ├── 🛒 E-Commerce Platform
+│   └── 📊 Analytics Dashboard
+│
+└── 💡 EXPLORING
+    ├── 🌐 Web3 & Blockchain
+    ├── ☁️ Cloud Architecture
+    └── 🧠 Machine Learning
+```
 
-> 💡 *Check out all my repositories [here](https://github.com/rubelstack?tab=repositories)!*
+<br/>
+
+> 💡 **[`📂 View All Repositories →`](https://github.com/rubelstack?tab=repositories)**
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT — SOCIAL LINKS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 **Connect With Me**
+<br/>
 
 <div align="center">
 
-<!-- ANIMATED SOCIAL BADGES -->
+## &nbsp; 🔗 &nbsp; `$ open ~/social-links/` &nbsp;
+
+<br/>
+
+<!-- WEBSITE -->
 <a href="https://ariyan.bro.bd" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_ariyan.bro.bd-00ff88?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Website"/>
+  <img src="https://img.shields.io/badge/-ariyan.bro.bd-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Website"/>
 </a>
+&nbsp;&nbsp;
+<!-- FACEBOOK -->
 <a href="https://facebook.com/ariyanamore" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/-@ariyanamore-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;
+<!-- INSTAGRAM -->
 <a href="https://instagram.com/ariyanamore" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-@ariyanamore-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;
+<!-- GITHUB -->
 <a href="https://github.com/rubelstack" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-@rubelstack-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
+<!-- EMAIL -->
 <a href="mailto:contact@ariyan.bro.bd" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📈 METRICS & RANDOM QUOTE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💰 **Support My Work**
+<br/>
 
 <div align="center">
 
-<a href="https://ariyan.bro.bd">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
+## &nbsp; 💭 &nbsp; `$ fortune | cowsay` &nbsp;
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🎵 SPOTIFY / NOW PLAYING (Optional — uncomment if needed) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED QUOTE -->
+<!--
 <div align="center">
 
-### ✨ *Random Dev Quote*
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+## &nbsp; 🎧 &nbsp; `$ spotify --now-playing` &nbsp;
 
 <br/>
 
-<!-- 3D ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+[![Spotify](https://novatorem-rubelstack.vercel.app/api/spotify)](https://open.spotify.com/user/rubelstack)
+
+</div>
+-->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⚡ ANIMATED FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <div align="center">
 
-### 🎯 *If you like what I do, consider giving a ⭐ to my repositories!*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ⭐  Star my repos if you find them useful!                     ║
+║   🍴  Fork them to start your own journey!                       ║
+║   💬  Open an issue if you have questions!                        ║
+║                                                                  ║
+║   Made with 💙 by MD Rubel Khan                                  ║
+║   🌐 ariyan.bro.bd                                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br/>
 
-**Made with ❤️ by [Ariyan](https://ariyan.bro.bd)**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>

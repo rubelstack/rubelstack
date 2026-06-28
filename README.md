@@ -4,7 +4,7 @@
 <!-- 🔥 ANIMATED 3D HERO BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=MD%20RUBEL%20KHAN&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Developer%20%20%7C%20%20🎯%20Problem%20Solver%20%20%7C%20%20🚀%20Tech%20Innovator&descAlignY=55&descSize=16&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=RUBEL&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Developer%20%20%7C%20%20🎯%20Problem%20Solver%20%20%7C%20%20🚀%20Tech%20Innovator&descAlignY=55&descSize=16&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ DYNAMIC TYPING ANIMATION -->
@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/rubelstack">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%24+whoami;MD+RUBEL+KHAN+%E2%94%82+%40rubelstack;%24+cat+passion.txt;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%E2%80%A2+Repeat+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%24+whoami;RUBEL+%E2%94%82+%40rubelstack;%24+cat+passion.txt;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%E2%80%A2+Repeat+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,7 +73,7 @@
 
 ```json
 {
-  "name": "MD Rubel Khan",
+  "name": "Rubel",
   "handle": "@rubelstack",
   "location": "Bangladesh 🇧🇩",
   "website": "ariyan.bro.bd",
@@ -397,7 +397,7 @@
 ║   🍴  Fork them to start your own journey!                       ║
 ║   💬  Open an issue if you have questions!                        ║
 ║                                                                  ║
-║   Made with 💙 by MD Rubel Khan                                  ║
+║   Made with 💙 by Rubel                                  ║
 ║   🌐 ariyan.bro.bd                                               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝

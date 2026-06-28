@@ -4,16 +4,28 @@
 <!-- 🔥 ANIMATED 3D HERO BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=RUBEL&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Developer%20%20%7C%20%20🎯%20Problem%20Solver%20%20%7C%20%20🚀%20Tech%20Innovator&descAlignY=55&descSize=16&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:0d1117&section=header&text=&fontSize=0" width="100%"/>
+
+<!-- 🖼️ PROFILE PIC + NAME -->
+
+<a href="https://github.com/rubelstack">
+  <img src="https://raw.githubusercontent.com/rubelstack/rubelstack/c92eb864ed3697415c04c6da7fe83538976cbd2a/profile-pic.jpg" width="180" height="180" style="border-radius: 50%;" alt="Rubel"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=RUBEL" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=30&lines=⚡+Full+Stack+Developer++%7C++🎯+Problem+Solver++%7C++🚀+Tech+Innovator" alt="Tagline" />
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ DYNAMIC TYPING ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/>
-
 <a href="https://github.com/rubelstack">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%24+whoami;RUBEL+%E2%94%82+%40rubelstack;%24+cat+passion.txt;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%E2%80%A2+Repeat+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+whoami;RUBEL+%E2%94%82+%40rubelstack;%24+cat+passion.txt;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%E2%80%A2+Repeat+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -66,7 +78,7 @@
 <tr>
 <td width="50%">
 
-<img align="center" src="https://raw.githubusercontent.com/rubelstack/rubelstack/c92eb864ed3697415c04c6da7fe83538976cbd2a/profile-pic.jpg" width="100%" style="border-radius: 15px;" alt="Rubel"/>
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
 
 </td>
 <td width="50%">

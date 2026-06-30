@@ -9,7 +9,7 @@
 
 <!-- PROFILE PIC -->
 <a href="https://github.com/rubelstack">
-  <img src="https://raw.githubusercontent.com/rubelstack/rubelstack/c92eb864ed3697415c04c6da7fe83538976cbd2a/profile-pic.jpg" width="160" height="160" style="border-radius:50%" alt="Rubel"/>
+  <img src="https://raw.githubusercontent.com/rubelstack/rubelstack/refs/heads/main/myimg.jpg" width="160" height="120" style="border-radius:8px; object-fit:cover;" alt="Rubel"/>
 </a>
 
 <br/><br/>
